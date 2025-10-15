@@ -17,7 +17,11 @@ const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"]
 export const metadata: Metadata = {
   title: "금화레이저",
   description: "정밀 레이저 가공 전문 기업, 금화레이저입니다.",
+  other: {
+    "naver-site-verification": "a6aea5b40db90e0e2382a593e7f361c13218afca",
+  },
 };
+
 
 // ✅ 표준 뷰포트 (강제 스케일 제거)
 export const viewport: Viewport = {
