@@ -18,21 +18,21 @@ const accordionItems: Item[] = [
     subtitle: '다양한 금속',
     description: `고출력 파이버레이저 절단 기술을 기반으로 고난도 금속 가공 문제를 해결하는 기술 중심 기업입니다.`,
     image: '/certifications/Services/Services_1.jpg',
-    cta: { label: '기술력', href: '/technology/technology' },
+    cta: { label: '기술력', href: '/business/certification' },
   },
   {
     title: 'PRODUCTS',
     subtitle: '고객 맞춤 설계',
     description: `정밀 레이저 가공 기술로 고객 요구에 최적화된 맞춤형 솔루션을 제공합니다.`,
     image: '/certifications/Services/Services_2.jpg',
-    cta: { label: '제품', href: '/technology/product' },
+    cta: { label: '제품', href: '/machines/lasercutting' },
   },
   {
     title: 'PROCESS',
     subtitle: '스마트 자동화',
     description: `체계적이고 정밀한 생산 프로세스를 통해 고객이 신뢰할 수 있는 최고 품질의 제품을 제공합니다.`,
     image: '/certifications/Services/Services_3.jpg',
-    cta: { label: '공정', href: '/technology/process' },
+    cta: { label: '공정', href: '/machines/bending' },
   },
 ];
 
