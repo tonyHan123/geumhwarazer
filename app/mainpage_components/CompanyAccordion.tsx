@@ -19,7 +19,7 @@ const accordionItems: Item[] = [
     title: 'ABOUT US',
     subtitle: '최고의 정밀함으로 산업 혁신을 이끄는 기술 중심 제조企業',
     description:
-      '금화레이저(주)는 20년 이상의 노하우와 최첨단 장비를 바탕으로\n철강, 알루미늄, 스테인리스 등 금속을 고출력 파이버 레이저로\n정밀 가공하는 기술 중심 제조기업입니다.',
+      '금화레이저(주)는 20년 이상의 노하우와 최첨단 장비를 바탕으로 철강, 알루미늄, 스테인리스 등 금속을 고출력 파이버 레이저로 정밀 가공하는 기술 중심 제조기업입니다.',
     image:
       'https://readdy.ai/api/search-image?query=modern%20industrial%20laser%20cutting%20facility%20with%20bright%20blue%20laser%20beams%20cutting%20through%20steel%20plates%2C%20high-tech%20manufacturing%20environment%20with%20precision%20equipment%2C%20clean%20industrial%20workspace%20with%20metallic%20surfaces%20and%20professional%20lighting%2C%20futuristic%20manufacturing%20technology%20representing%20company%20overview%20and%20core%20technology&width=600&height=500&seq=company-overview-bg&orientation=landscape',
     stats: [
